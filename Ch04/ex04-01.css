@@ -86,3 +86,11 @@ body {
 	margin-top: 65px;
 	margin-left: 100px;
 }
+a {
+	color: #669933;
+	text-decoration: none;
+}
+a:hover {
+	color: #ED601B;
+	text-decoration: underline;
+}
